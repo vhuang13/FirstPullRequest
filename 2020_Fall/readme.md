@@ -57,7 +57,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Hirata, Erika
 
-- [ ] Huang, Valerie
+- [X] Huang, Valerie (@vhuang13)
 
 - [ ] Jenkins, Michael
 
